@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Masina Sans';
+    src: url('path-to-font/MasinaSans-Regular.woff2') format('woff2'),
+         url('path-to-font/MasinaSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color: #0f0f0f;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+.divider{
+    width: 100vm;
+}
+h2{
+
+    font-size: 1rem; 
+}
+h1{
+    font-size: 1.5rem; 
+}
+
+.parentDiv {
+    display: flex; /* Make parent a flex container */
+    justify-content: center; /* Center horizontally */
+    height: 100vh; /* Example: Full viewport height */
+}
+
+.container {
+    width: 97%;
+    height: 100px; /* Example height */
+    background-color: lightblue; /* Optional for visualization */
+}
+
+.project-div{
+    
+}

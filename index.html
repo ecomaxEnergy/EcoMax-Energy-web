@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style.css" />
+    <title>EcoMax Energy</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  </head>
+
+  <body>
+    <!-- Header -->
+    <section id="header">
+      <div class="header container">
+        <div class="nav-bar">
+          <div class="brand">
+            <a href="#hero">
+              <h1>EcoMax Energy</h1>
+            </a>
+          </div>
+          <div class="nav-list">
+            <div class="hamburger">
+              <div class="bar"></div>
+            </div>
+            <ul>
+              <li><a href="#hero" data-after="Home">Home</a></li>
+              <li><a href="#about" data-after="About">About Us</a></li>
+              <li><a href="#ourteam" data-after="ourteam"> Founder</a></li>
+              <li><a  href="./solutions.html" >Projects</a></li>
+              <li><a href="#research" data-after="news">Research</a></li>
+              <li><a href="#contact" data-after="Contact">Contact Us</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Header -->
+
+    <!-- Hero Section  -->
+    <section id="hero" style="position: relative; height: 100vh; overflow: hidden;">
+      <video 
+        id="background-video" 
+        autoplay 
+        muted 
+        style="
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          z-index: -1;
+        "
+      >
+        <source id="mp4Source1"  src="./assets/videos/bg1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div
+        class="hero container"
+        style="
+          position: relative;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          height: 100%;
+          font-size: 1em;
+          z-index: 1;
+        "
+      >
+        <div
+          style="
+            border-left: 3px solid rgb(255, 255, 255);
+            padding-left: 20px;
+            margin-left: -60px;
+            height: 200px;
+          "
+        >
+           <!-- First Content -->
+    <div id="content1" style="display: none;">
+      <div style="padding-top: 30px">
+        <h1>TACKLING</h1>
+        <h1>AGRICULTURAL</h1>
+        <div style="display: flex; flex-flow: row wrap; gap: 5px">
+          <h1 style="color: #80EB85; margin: 0">WASTE</h1>
+          <h1 style="margin: 0">CHALLENGES</h1>
+        </div>
+      </div>
+    </div>
+
+    <!-- Second Content -->
+    <div id="content2" style="display: none;">
+      <div style="padding-top: 30px">
+        <h1>TRANSFORMING</h1>
+        <div style="display: flex; flex-flow: row wrap; gap: 5px">
+          <h1>BIOMASS INTO</h1>
+          <h1 style="color: #80EB85; margin: 0">CLEAN</h1>
+        </div>
+        <h1 style="margin: 0 ;color: #80EB85;">ENERGY</h1>
+      </div>
+    </div>
+        </div>
+    
+        <video class="hide-on-mobile" style="
+        width: 400px;
+        height: 400px;
+        object-fit: cover;
+
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        border-radius: 15px;
+      " id="myVideo" muted autoplay>
+          <source src="./assets/videos/smallVid-1.mp4" id="mp4Source" type="video/mp4">
+          Your browser does not support the video tag.
+      </video>
+      </div>
+    </section>
+    
+    
+
+    <!-- End Hero Section  -->
+<img class="ecomaxlogo" src="./assets/images/ecomaxlogo.gif" alt="EcoMax Energy">
+    <hr>
+    
+    
+
+    
+
+    
+    <!-- About Section -->
+    <section id="about" style="padding: 50px 0; color: white">
+      <div class="about-container">
+        <!-- Left Column -->
+        <div class="about-left">
+          <h1 class="about-title">WHO WE ARE</h1>
+        </div>
+    
+        <!-- Right Column -->
+        <div class="about-right">
+          <p class="about-text">
+            We are passionate entrepreneurs dedicated to generating green energy
+            solutions for India. Our team is driven by a shared vision of
+            sustainability and innovation, striving to transform biomass
+            residues into clean, renewable energy. With a deep commitment to
+            environmental stewardship, we focus on developing cutting-edge
+            technologies that reduce reliance on fossil fuels.
+          </p>
+          <p class="about-text">
+            Our expertise spans across structured finance, renewable energy, and
+            infrastructure projects, enabling us to deliver scalable and
+            impactful solutions. At EcoMax Energy, we believe in empowering
+            communities through sustainable development, ensuring a greener
+            future for generations to come. Together, we are paving the way for
+            energy independence and a healthier planet.
+          </p>
+        </div>
+      </div>
+      <hr />
+    </section>
+    <section style="padding: 50px 0; color: white">
+
+      <div class="vision-container">
+        <!-- Left Column -->
+        <div class="vision-left">
+          
+          <div id="lottie-container2" style="width: auto; height: auto; aspect-ratio: 1.5; background-color: #181818;"></div>
+        </div>
+        
+        <!-- Right Column -->
+        <div class="vision-right">
+          <h1 class="vision-title">OUR VISION</h1>
+          <p class="vision-text">
+            "To harness India's abundant biomass residues to create sustainable
+            and renewable energy solutions, empowering our nation towards energy
+            independence and environmental stewardship."
+          </p>
+          <p class="vision-text">
+            We believe in leveraging India's natural resources to solve its
+            energy challenges. By innovating and developing cutting-edge
+            technologies that convert biomass residues into clean energy.
+          </p>
+        </div>
+      </div>
+      <hr />
+      <div class="mission-container">
+        <!-- Left Column -->
+        <div class="mission-left">
+          <div id="lottie-container3" style="width: auto; height: auto; aspect-ratio: 1.5; background-color: #181818;"></div>
+        </div>
+        
+        <!-- Right Column -->
+        <div class="mission-right">
+          <h1 class="mission-title">OUR MISSION</h1>
+          <p class="mission-text">
+            "Our mission is to transform India's biomass residues into clean,
+            renewable energy, driving sustainable development and contributing
+            to energy security."
+          </p>
+          <p class="mission-text">
+            We are dedicated to innovation, excellence, and collaboration to
+            deliver environmentally responsible energy solutions that empower
+            communities and protect our planet for future generations."
+          </p>
+        </div>
+      </div>
+      <hr />
+    </section>
+
+
+    <!-- End About Section -->
+
+    <section id="ourteam" style="margin-top: 100px;">
+      <div class="team-container">
+        <h1 class="team-title">FOUNDER</h1>
+        <!-- Left Column -->
+        <div class="team-left">
+          <img
+          src="./assets/images/MD.svg"
+          class="team-image"
+          alt="Rithvik Rao Madhavarapu"
+          />
+        </div>
+    
+        <!-- Right Column -->
+        <div class="team-right">
+          <div class="team-member">
+            <h1 class="member-name">Rithvik Rao Madhavarapu</h1>
+            <h1 class="member-title">Managing Director</h1>
+          </div>
+          <hr />
+          <p class="member-description">
+            Rithvik Rao Madhavarapu is a seasoned investment banking professional with extensive experience across various sectors and geographies. At a prominent London-based investment bank, he managed a structured finance portfolio, including project finance deals for wind farms, solar projects, and infrastructure. Previously, at Avantage Reply, he consulted for top investment banks. He also served as Assistant Vice President of Finance for Nandi Grain Derivatives and worked at Kantar Consulting in Boston.
+          </p>
+        </div>
+      </div>
+    </section>  
+    <!-- End Service Section -->
+    <hr>
+    
+    <section >
+      <div class="projects container" style="color: white;">
+        <div class="projects-container">
+         
+        
+          <div >
+            <img class="BIOMASSRESOURCES" src="./assets/videos/BIOMASSRESOURCES.gif" alt="Biomass Resources">
+            <!-- <div id="lottie-container4" style="width: auto; height: auto; aspect-ratio: 1.5; background-color: #181818;"></div> -->
+            <!-- <img
+            src="./assets/images/BIOMASSRESOURCES.svg"
+            class="projects-image"
+            alt="Biomass Resources"
+            /> -->
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <div style="padding-bottom: 100px;"></div>
+    <!-- End Projects Section -->
+    <hr>
+    <div>
+      <h1 class="news-title">RESEARCH</h1>
+
+    </div>
+    <section id="research" >
+      <div  style="color: white;">
+        
+        <div class="news-grid">
+          <!-- News Item 1 -->
+          <div class="news-item">
+            <img src="./assets/images/news1.svg" alt="">
+            <p>Date: April 20, 2024</p>
+            <p>Understanding the Basics of Anaerobic Digestion</p>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            <div class="button-container">
+              <button class="read-more-button">READ MORE</button>
+            </div>
+          </div>
+    
+          <!-- News Item 2 -->
+          <div class="news-item">
+            <img src="./assets/images/news2.svg" alt="">
+            <p>Date: April 20, 2024</p>
+            <p>Understanding the Basics of Anaerobic Digestion</p>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            <div class="button-container">
+              <button class="read-more-button">READ MORE</button>
+            </div>
+          </div>
+    
+          <!-- News Item 3 -->
+          <div class="news-item">
+            <img src="./assets/images/news3.svg" alt="">
+            <p>Date: April 20, 2024</p>
+            <p>Understanding the Basics of Anaerobic Digestion</p>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            <div class="button-container">
+              <button class="read-more-button">READ MORE</button>
+            </div>
+          </div>
+    
+         
+        </div>
+      </div>
+    </section>
+    <div style="padding-top: 30px;"> </div>
+  <hr>
+      <!-- Contact Section -->
+      <section id="contact" style="color: white; padding: 10px; display: flex; max-width: 1000px;">
+        <div class="contact-left" style="flex: 1; text-align: left; border-right: 1px solid white; font-size: large;">
+            <ul style="list-style: none; padding: 0; margin: 0;">
+                <li><a href="#hero" data-after="Home"><h1>Home</h1></a></li>
+                <li><a href="#about" data-after="About"><h1>About Us</h1></a></li>
+                <li><a href="./solutions.html" data-after="Projects"><h1>Projects</h1></a></li>
+                <li><a href="#ourteam" data-after="ourteam"><h1>Our Team</h1></a></li>
+            </ul>
+        </div>
+        <div class="contact-right" style="flex: 1; text-align: right;">
+            <h1 style="font-size: 28px; font-weight: bold; margin-bottom: 10px; ">
+                Reach Out
+            </h1>
+            <div class="address">
+
+              <p ><span >Email : </span>rithvikrao@ecomaxenergy.in</p>
+              <p ><span >Phone :</span> 7893277741</p>
+
+            </div>
+        </div>
+    </section>
+    <!-- End Contact Section -->
+
+<hr>
+
+<!-- Footer -->
+<section id="footer" style="color: white;  padding: 10px 0; text-align: left;">
+  <p style="margin-left: 10px;">Copyright 2024 - EcoMax Energy</p>
+</section>
+<!-- End Footer -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.10.2/lottie.min.js"></script>
+    <script src="./index.js"></script>
+    
+    
+  
+
+   <script type="text/javascript">
+  var count = 1;
+  var player = document.getElementById('myVideo');
+  var mp4Vid = document.getElementById('mp4Source');
+  var player1 = document.getElementById('background-video');
+  var mp4Vid1 = document.getElementById('mp4Source1');
+  var content1 = document.getElementById('content1'); // First text content
+  var content2 = document.getElementById('content2'); // Second text content
+  player.addEventListener('ended', myHandler, false);
+
+
+  if (window.innerWidth <= 768) {
+    player1.addEventListener('ended', myHandler, false);
+  }
+  function myHandler(e) {
+    if (!e) {
+      e = window.event;
+    }
+    count++;
+
+    // Reset count to 1 if it exceeds 2
+    if (count > 2) {
+      count = 1;
+    }
+
+    // Change the video source based on the count
+    $(mp4Vid).attr('src', "./assets/videos/smallVid-" + count + ".mp4");
+    $(mp4Vid1).attr('src', "./assets/videos/bg" + count + ".mp4");
+
+    // Reload and play the new video
+    player.load();
+    player.play();
+    player1.load();
+    player1.play();
+
+    if (count === 1) {
+      content1.style.display = 'block';
+      content2.style.display = 'none';
+    } else if (count === 2) {
+      content1.style.display = 'none';
+      content2.style.display = 'block';
+    }
+  }
+  content1.style.display = 'block';
+  content2.style.display = 'none';
+</script>
+  </body>
+</html>

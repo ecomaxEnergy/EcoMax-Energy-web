@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1272 625">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-width: 3px;
+      }
+
+      .cls-5 {
+        stroke: #231f20;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.3, SVG Export Plug-In . SVG Version: 1.2.0 Build 164)  -->
+  <g>
+    <g id="Layer_1">
+      <rect class="cls-3" x="938.9" y="118.8" width="81.1" height="261.8" rx="40.5" ry="40.5"/>
+      <rect class="cls-3" x="832.8" y="145" width="58.3" height="232.7" rx="29.2" ry="29.2"/>
+      <rect class="cls-3" x="722" y="137.4" width="58.3" height="232.7" rx="29.2" ry="29.2"/>
+      <rect class="cls-3" x="663.1" y="236.6" width="21.6" height="126" rx="10.8" ry="10.8"/>
+      <rect class="cls-3" x="435.1" y="342.1" width="164.5" height="41.4"/>
+      <rect class="cls-3" x="435.1" y="432.5" width="168" height="39.1"/>
+      <rect class="cls-3" x="371.5" y="199.3" width="38.5" height="159.8" rx="19.2" ry="19.2"/>
+      <rect class="cls-3" x="302.1" y="199.3" width="38.5" height="159.8" rx="19.2" ry="19.2"/>
+      <ellipse class="cls-3" cx="256" cy="377.7" rx="18.1" ry="26.2"/>
+      <path class="cls-3" d="M108.5,457l78.1-.6-.6-56s2.3-50.2-37.3-51.9c0,0-37.9-5.2-40.2,53.1v55.4Z"/>
+      <rect class="cls-3" x="529" y="397.5" width="25.1" height="35"/>
+      <rect class="cls-3" x="528.4" y="471.6" width="26.2" height="55.4"/>
+      <rect class="cls-3" x="457.8" y="413.3" width="12.2" height="19.2"/>
+      <rect class="cls-3" x="457.2" y="471.6" width="14" height="19.2"/>
+      <rect class="cls-3" x="459" y="322.9" width="10.5" height="18.1"/>
+      <rect class="cls-3" x="459" y="385.3" width="11.1" height="15.2"/>
+      <rect class="cls-3" x="566.3" y="323.5" width="8.7" height="18.7"/>
+      <rect class="cls-3" x="566.3" y="384.1" width="9.3" height="16.3"/>
+      <rect class="cls-3" x="564.5" y="412.7" width="12.2" height="19.2"/>
+      <rect class="cls-3" x="565.1" y="471.6" width="10.5" height="19.2"/>
+      <ellipse class="cls-3" cx="872.4" cy="493.5" rx="18.1" ry="30"/>
+      <path class="cls-3" d="M181.5,373.1l73.1.3,2,.9v7s-2.9-1.2-4.7-.6l-68.1-.6"/>
+      <polyline class="cls-3" points="204.1 373 204.1 367.8 207.6 367.8 207.6 373"/>
+      <polyline class="cls-3" points="207.6 381.2 207.6 386.5 204.1 386.5 204.1 381.2"/>
+      <polyline class="cls-3" points="211.1 373 211.1 366.6 214.6 366.6 214.6 373"/>
+      <polyline class="cls-3" points="214.7 380.7 214.6 387.1 211.1 387 211.2 380.6"/>
+      <polyline class="cls-3" points="232.7 373 232.7 367.2 235.3 367.2 235.3 373"/>
+      <polyline class="cls-3" points="235.3 380.6 235.3 386.5 232.7 386.5 232.7 380.6"/>
+      <path class="cls-2" d="M225.1,420.9h-2.3c.6-5.2-2.9-12.2-2.9-12.2l.6-35.6h8.2l-.6,35.6s-3.5,7-2.9,12.2Z"/>
+      <rect class="cls-2" x="220.5" y="417.4" width="7" height="1.2" rx=".6" ry=".6"/>
+      <polyline class="cls-3" points="211.1 426.1 211.1 437.8 237.4 437.8 237.4 425.5"/>
+      <path class="cls-3" d="M266.1,355.6l.4-36.8s0-7.6,5.8-8.2h29.7v10.5s-26.8.6-26.8.6l-1.2,49.6"/>
+      <rect class="cls-2" x="281.7" y="305.4" width="2.9" height="20.4"/>
+      <rect class="cls-2" x="288.1" y="306" width="2.9" height="17.5"/>
+      <polyline class="cls-3" points="310.3 356.1 310.3 386.5 301.5 386.5 301.5 388.8 342.9 388.8 342.9 385.9 334.2 385.9 334.2 354.3"/>
+      <rect class="cls-3" x="305.6" y="371.3" width="4.7" height="7.6"/>
+      <rect class="cls-3" x="334.2" y="370.7" width="4.7" height="7.6"/>
+      <polyline class="cls-3" points="379.7 356.1 379.7 386.5 370.9 386.5 370.9 388.8 412.3 388.8 412.3 385.9 403.6 385.9 403.6 354.3"/>
+      <rect class="cls-3" x="375" y="371.3" width="4.7" height="7.6"/>
+      <rect class="cls-3" x="403.6" y="370.7" width="4.7" height="7.6"/>
+      <path class="cls-3" d="M410.5,280.9l134.5.9s11.1-.6,9.9,14.6l.3,45.2h-6.4v-50.7l-138.7-.7"/>
+      <path class="cls-3" d="M584.9,341v-50.2s-2.9-7.6,9.3-8.2c12.2-.6,47.8-.6,47.8-.6l1.7-47.8s-.6-9.9,7-12.2h16.9v-4.1h-4.7v-7h19.8v7h-3.5v20s-5.6-2.9-11.5.5v-8.3c-.1,0-19.4-5.2-18.8,9.9s-.6,39.7-.6,39.7c0,0,1.7,9.9-7.6,11.1h-48.4v50.7"/>
+      <rect class="cls-2" x="582.6" y="313.6" width="12.2" height="5.8"/>
+      <rect class="cls-2" x="654.9" y="219.1" width="2.3" height="15.7"/>
+      <path class="cls-3" d="M604.2,419.1v-21.6h-5.2v6.4h-7s-6.4.6-7,10.5,0,17.5,0,17.5h5.2v-16.3s-.6-4.7,2.3-4.7h6.4v8.2h5.2Z"/>
+      <path class="cls-3" d="M604.7,484.6l-.3,21.6h-5.2c0,0,0-6.5,0-6.5h-7c0,0-6.4-.7-6.9-10.7s.2-17.5.2-17.5h5.2c0,0-.2,16.4-.2,16.4,0,0-.6,4.7,2.3,4.7h6.4c0,0,.1-8.1.1-8.1h5.2Z"/>
+      <polygon class="cls-3" points="342.1 235.1 372.3 234.9 371.7 246.1 341.2 246.6 342.1 235.1"/>
+      <rect class="cls-2" x="354" y="230.8" width="3.5" height="21"/>
+      <path class="cls-3" d="M270,161.4v65.3c0,3.9,3.1,7,7,7h24.5v-8.2l-20.9-.5c-2.3,0-4.2-1.9-4.2-4.3l-.5-59.4h-5.8Z"/>
+      <line class="cls-1" x1="667.2" y1="359.9" x2="666.6" y2="404.8"/>
+      <path class="cls-4" d="M680.3,404.2"/>
+      <path class="cls-4" d="M679.7,361.7"/>
+      <line class="cls-3" x1="679.3" y1="360.9" x2="679.4" y2="404"/>
+      <rect class="cls-2" x="660.8" y="404.5" width="25.1" height="1.7"/>
+      <rect class="cls-2" x="720.8" y="404" width="56" height="2.3"/>
+      <rect class="cls-2" x="831" y="403.4" width="64.1" height="3.5"/>
+      <polygon class="cls-6" points="689.6 351.8 685 351.8 685 335.4 689.6 335.4 689.6 338.8 689.6 351.8"/>
+      <path class="cls-3" d="M689.6,338.8h2.1c2,0,3.7-1.6,3.7-3.6v-46.4c0-3.9,3.1-7,7-7.1l19.5-.4.2,8.9-19.9.7-.6,48.4s.6,7-4.1,7.6-8.2,0-8.2,0"/>
+      <path class="cls-2" d="M722.1,304.4s-17.9,23.3.2,40.3"/>
+      <path class="cls-3" d="M780.1,280.6l22.3.2c3.3,0,5.9,2.7,5.9,5.9l.2,25.9h23.9"/>
+      <path class="cls-3" d="M832.8,321.8h-52.4l.5-9.4h19.8v-16.4c0-3.2-2.6-5.8-5.8-5.8h-14.1"/>
+      <rect class="cls-2" x="820.3" y="305.1" width="2.3" height="21.6"/>
+      <rect class="cls-2" x="787.9" y="305.4" width="2.3" height="22.7"/>
+      <polyline class="cls-3" points="533.9 383.8 533.9 389.1 536.8 389.1 536.8 397.5 543.5 397.5 543.5 389 546.7 389.1 546.7 383.8"/>
+      <rect class="cls-2" x="1056.1" y="272.2" width="14" height="58.3"/>
+      <rect class="cls-2" x="1004.2" y="167.2" width="7.6" height="188.9" rx="3.8" ry="3.8"/>
+      <path class="cls-2" d="M891.1,306s12.2,21.5,0,35.5"/>
+      <rect class="cls-2" x="733.7" y="109.5" width="30.3" height="9.3"/>
+      <rect class="cls-2" x="844.5" y="111.2" width="30.3" height="9.3"/>
+      <path class="cls-2" d="M745.3,109.5v-8.2c0-2.3,1.8-4.1,4.1-4.1h0c2.3,0,4.1,1.8,4.1,4.1v8.2"/>
+      <path class="cls-2" d="M749.4,97.2h0c2.3,0,4.1,1.8,4.1,4.1v8.2h-8.2v-8.2c0-2.3,1.8-4.1,4.1-4.1Z"/>
+      <path class="cls-2" d="M859.6,99h0c2.3,0,4.1,1.8,4.1,4.1v8.2h-8.2v-8.2c0-2.3,1.8-4.1,4.1-4.1Z"/>
+      <line class="cls-1" x1="737.9" y1="119.1" x2="737.9" y2="139.5"/>
+      <line class="cls-3" x1="759.5" y1="120.5" x2="759.5" y2="138.7"/>
+      <line class="cls-3" x1="869.7" y1="121.1" x2="869.7" y2="145.3"/>
+      <line class="cls-3" x1="849.3" y1="121.1" x2="849.3" y2="147.1"/>
+      <path class="cls-3" d="M738,130.7s-12.3,2.3-9.8-5.8-.3-13.7-.3-13.7c0,0-14.4-.9-7,12,0,0,12.1,6.4,9.3-19.8"/>
+      <ellipse class="cls-6" cx="728.4" cy="101" rx="5.5" ry="6.4"/>
+      <path class="cls-3" d="M869.8,130.2s12.3,2.3,9.8-5.8.3-13.7.3-13.7c0,0,14.4-.9,7,12,0,0-12.1,6.4-9.3-19.8"/>
+      <ellipse class="cls-6" cx="879.4" cy="100.4" rx="5.5" ry="6.4"/>
+      <polyline class="cls-5" points="727.8 98.1 727.8 101.9 732.1 101.3"/>
+      <polyline class="cls-5" points="880 97.5 880 101.6 876.3 101"/>
+      <polygon class="cls-3" points="1020 167.2 1031.5 167.2 1031.5 145 1040.7 145 1040.7 176.6 1020 176.6 1020 167.2"/>
+      <rect class="cls-3" x="775.3" y="112.7" width="58.3" height="15.7"/>
+      <path class="cls-3" d="M759.5,123.9h12.7v-12.7c0-1.1.9-2,2-2h59.5c1.6,0,3,1.3,3,3v11.8h12.6"/>
+      <path class="cls-3" d="M759.5,127.2h12.3v6.9h29.3v35.7c0,0,32,0,32,0,0,0,2.2-7.8,2.5-8.3s-27.1-.5-27.1-.5l-.3-27h28.9v-5.7h12.1"/>
+      <rect class="cls-1" x="803.3" y="106.2" width="3.5" height="9.3"/>
+      <rect class="cls-2" x="786.1" y="126.4" width="2.9" height="10.5"/>
+      <rect class="cls-2" x="821.1" y="125.8" width="2.9" height="10.5"/>
+      <line class="cls-2" x1="891.1" y1="169.8" x2="938.9" y2="169.8"/>
+      <polyline class="cls-3" points="891.1 175.1 900.9 175.1 901.6 217.9 938.9 217.9 938.9 210.4 906.9 210.9 906 175.1 938.9 175.1"/>
+      <rect class="cls-2" x="913.9" y="208.6" width="4.7" height="12.2"/>
+      <rect class="cls-2" x="930.8" y="208.6" width="4.7" height="12.2"/>
+      <line class="cls-2" x1="731.5" y1="362.5" x2="731.5" y2="403.7"/>
+      <line class="cls-2" x1="766.4" y1="365.1" x2="766.4" y2="404"/>
+      <polyline class="cls-3" points="771.7 361.7 771.7 376.6 837.1 376.6 837.1 363.8"/>
+      <polyline class="cls-3" points="771.7 403.2 771.7 382.4 803.4 382.4 803.4 444.3 803.4 452.1 766.4 452.1 766.4 460.1 841.2 460.2 841.2 488.2 854.4 488"/>
+      <polyline class="cls-3" points="884.4 369.1 885.5 403.7 876.7 403.7 876.7 373.7"/>
+      <rect class="cls-2" x="937.2" y="401.6" width="85.1" height="3.5"/>
+      <polyline class="cls-3" points="1012.4 365.2 1012.6 401.9 1003.8 401.9 1003.8 372"/>
+      <line class="cls-2" x1="726.8" y1="357.9" x2="726.1" y2="404.2"/>
+      <polyline class="cls-3" points="855.9 481.2 848 481.2 848 452.1 829.5 452.1 829.5 420.7 915 420.7 914.8 449.1 896.4 449.1 896.4 478.3 888.4 478.3"/>
+      <polyline class="cls-3" points="844.7 372.1 844.7 405.1 837.1 405.1 837.1 383 811.4 382.4 811.4 444.3 811.4 452.1 821.4 452.1 821.4 412.1 914.8 412.1 921.6 412.1 921.6 449.1 995.7 449"/>
+      <polyline class="cls-3" points="890.1 486.8 903 486.8 903 455.2 995.7 455.2"/>
+      <rect class="cls-6" x="771.9" y="446.2" width="4.7" height="19.8" rx="2.3" ry="2.3"/>
+      <rect class="cls-6" x="778.3" y="446.2" width="4.7" height="19.8" rx="2.3" ry="2.3"/>
+      <rect class="cls-6" x="941" y="442.1" width="4.7" height="19.8" rx="2.3" ry="2.3"/>
+      <rect class="cls-6" x="947.4" y="442.1" width="4.7" height="19.8" rx="2.3" ry="2.3"/>
+      <rect class="cls-6" x="870.4" y="408.9" width="4.7" height="16.3"/>
+      <line class="cls-2" x1="946.5" y1="363.7" x2="946.5" y2="401.6"/>
+      <line class="cls-2" x1="956.6" y1="373.6" x2="956.4" y2="401"/>
+      <polyline class="cls-3" points="1020 315.9 1036.3 315.9 1046.3 315.9 1046.3 375.1 1056.1 375.1 1060 375.1 1060 330.5"/>
+      <polyline class="cls-3" points="1066.8 330.5 1066.8 382.7 1038.2 383.5 1038.2 323.8 1020 323.8"/>
+      <rect class="cls-6" x="1054.1" y="249.7" width="18.1" height="5.2"/>
+      <rect class="cls-6" x="1054.1" y="354.7" width="18.1" height="5.2"/>
+      <polyline class="cls-3" points="1060 272.2 1059.9 222.9 1119.4 222.9 1119.4 232.2 1066.8 232.8 1066.8 272.2"/>
+    </g>
+  </g>
+</svg>
