@@ -1225,6 +1225,11 @@ img {
     text-align: left;
     padding-left: 20px;
   }
+  .address {
+    font-size: 150%; /* Small but more readable size */
+    line-height: 1.6; /* Improve readability with proper line spacing */
+    margin-top: 10px; /* Add spacing for separation */
+  }
 }
 
 /* Footer */
@@ -1310,18 +1315,14 @@ img {
   margin: 0 auto; /* Centers the image horizontally */
 }
 
-.address {
-  font-size: 15vm; /* Small but more readable size */
-  line-height: 1.6; /* Improve readability with proper line spacing */
-  margin-top: 10px; /* Add spacing for separation */
-}
+
 
 @media (min-width: 768px) {
   .BIOMASSRESOURCES {
     max-width: 600px; /* Limit width on larger screens */
     margin: 0 auto; /* Center align for better presentation */
   }
- 
+  
 }
 
 
