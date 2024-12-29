@@ -1,4 +1,255 @@
+
+
+
+
+
+
+
+
+
 @font-face {
+    font-family: "Masina Sans";
+    src: url("path-to-font/MasinaSans-Regular.woff2") format("woff2"),
+      url("path-to-font/MasinaSans-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  body {
+    background-color: #0f0f0f;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+  }
+  .divider {
+    width: 100vm;
+  }
+  h2 {
+    font-size: 1rem;
+    margin-left: 10%;
+    padding-bottom: 30px;
+  }
+  h1 {
+    font-size: 1.5rem;
+  }
+  
+  .parentDiv {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    height: 100vh; /* Sets the height of the container to the full height of the viewport. */
+  }
+  
+  .container {
+    width: 97%;
+    height: 100px;
+  }
+  
+  img {
+      max-width: 80%;
+      max-height: 80%;
+      object-fit: contain; /* Prevents distortion */
+  }
+  
+  
+  
+  .project-div {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      position: relative;
+      justify-items: center;
+      align-items: center;
+      height: 137em;
+  }
+  
+  .project-div::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 50%; /* Position in the center */
+      width: 0;
+      border-left: 2px dashed white; /* Dashed vertical line */
+      z-index: 0;
+  }
+  
+  .project-left,
+  .project-right {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 1;
+      width: 100%;
+      height: 300px;
+      padding: 10px; /* Adds space inside the containers */
+      min-width: 150px; /* Prevents containers from shrinking too much */
+      min-height: 150px;
+  }
+  
+  .step-content{
+      width: clamp(450px,300px,100px);
+  }
+  
+  .content-heading{
+      font-size: 160%;
+      line-height: 40px;
+      font-weight: bold;
+  }
+  
+  
+  
+  
+  
+  .step-number {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      background-color: white;
+      color: black;
+      font-weight: bold;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      position: absolute;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      
+  }
+  
+  .arrowsvg{
+      width: 70px;
+      left: 53%;
+      top: 6.2%;
+      display: flex;
+      transform: translate(-50%, -50%);    position: absolute;
+  }
+  .arrowsvg1{
+      width: 70px;
+      left: 44%;
+      top: 20.7%;
+      display: flex;
+      transform: translate(-50%, -50%);    position: absolute;
+      transform: rotate(180deg) translateY(50%);
+  }
+  
+  .arrowsvg2{
+      width: 70px;
+      left: 53%;
+      top: 35.3%;
+      display: flex;
+      transform: translate(-50%, -50%);    position: absolute;
+  }
+  .arrowsvg3{
+      width: 70px;
+      left: 44%;
+      top: 50%;
+      display: flex;
+      transform: translate(-50%, -50%);    position: absolute;
+      transform: rotate(180deg) translateY(50%);
+  }
+  
+  .arrowsvg4{
+      width: 70px;
+      left: 53.2%;
+      top: 64.5%;
+      display: flex;
+      transform: translate(-50%, -50%);    position: absolute;
+  }
+  
+  .arrowsvg5{
+      width: 70px;
+      left: 44%;
+      top: 79.2%;
+      display: flex;
+      transform: translate(-50%, -50%);    position: absolute;
+      transform: rotate(180deg) translateY(50%);
+  }
+  
+  .arrowsvg6{
+      width: 70px;
+      left: 53.2%;
+      top: 93.7%;
+      display: flex;
+      transform: translate(-50%, -50%);    position: absolute;
+  }
+  
+  
+  
+  @media (max-width: 768px) {
+      .parentDiv {
+          width: auto;
+          
+          grid-gap: 39px; /* Adjusts the spacing between grid items */
+      }
+  
+      .step-content {
+          width: 90%; /* Adjusts to fit better on smaller screens */
+          margin: 0 auto; /* Centers the content */
+          text-align: center; /* Aligns text to the center */
+          height: auto;
+      }
+  
+      .content-heading {
+          font-size: 1.2rem; /* Slightly smaller heading for mobile */
+          line-height: 1.5rem; /* Adjusts line spacing */
+          font-weight: bold;
+      }
+  
+      .step-content p {
+          font-size: 1rem; /* Adjusts paragraph font size for readability */
+          line-height: 1.4rem; /* Adds some space between lines */
+          margin-top: 10px; /* Adds spacing between heading and paragraph */
+          color: #ddd; /* Slightly lighter color for better visibility */
+          overflow: auto; /* Makes overflowing text scrollable */
+          max-height: 100px; /* Sets a maximum height for the text container */
+          padding-right: 10px; /* Adds space for the scrollbar */
+      }
+  
+      .step-number {
+          width: 40px; /* Smaller size for mobile */
+          height: 40px;
+          font-size: 16px; /* Adjusted font size */
+          left: 50%;
+          transform: translateX(-50%);
+      }
+  
+      .arrowsvg,
+      .arrowsvg1,
+      .arrowsvg2,
+      .arrowsvg3,
+      .arrowsvg4,
+      .arrowsvg5,
+      .arrowsvg6 {
+          width: 50px; /* Smaller arrows for mobile */
+          left: 50%; /* Adjusts alignment */
+          transform: translate(-50%, -50%);
+          display: none; /* Optionally hide arrows for simplicity */
+      }
+  
+      
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @font-face {
     font-family: 'Masina Sans';
     src: url('path-to-font/MasinaSans-Regular.woff2') format('woff2'),
          url('path-to-font/MasinaSans-Regular.woff') format('woff');
@@ -207,4 +458,4 @@ a {
 
 .sym-line-left::before {
     right: 28px;
-}
+} */
