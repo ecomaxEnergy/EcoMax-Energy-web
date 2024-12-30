@@ -192,7 +192,7 @@ img {
         margin-top: 10px; /* Adds spacing between heading and paragraph */
         color: #ddd; /* Slightly lighter color for better visibility */
         overflow: auto; /* Makes overflowing text scrollable */
-        max-height: 100px; /* Sets a maximum height for the text container */
+        max-height: 200px; /* Sets a maximum height for the text container */
         padding-right: 10px; /* Adds space for the scrollbar */
     }
 
